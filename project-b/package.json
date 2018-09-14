@@ -1,0 +1,7 @@
+{
+  "name": "project-b",
+  "version": "0.0.1",
+  "dependencies": {
+    "project-a": "file:../project-a"
+  }
+}
